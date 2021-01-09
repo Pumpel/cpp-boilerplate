@@ -49,3 +49,4 @@ Testing/
 *.dSYM/
 *.su
 
+/cmake-build-debug/
